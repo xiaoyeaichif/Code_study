@@ -1,0 +1,328 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\01范围尝试模型">
+      <UniqueIdentifier>{ac816d83-cf42-4b04-97c6-53140bc8dbc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\02样本对应模型">
+      <UniqueIdentifier>{ac28c8a6-a652-431e-9fe3-577e49a56aae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\03背包问题">
+      <UniqueIdentifier>{d4dded7a-7c86-4176-8587-f9eaffccde2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\04跳马问题">
+      <UniqueIdentifier>{efc59324-9877-44e3-83a9-9d8a70ca436d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\05基础代码尝试">
+      <UniqueIdentifier>{4eba9b12-5f18-4719-bd75-8646fa693e5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\07单调栈问题">
+      <UniqueIdentifier>{bc062087-8669-4b0c-bbdd-dd3b112dabbe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\06打家劫舍问题">
+      <UniqueIdentifier>{38e41cca-f330-4cb6-b3b1-3021088026ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\08单调队列问题">
+      <UniqueIdentifier>{9a8de0cd-88d6-46d9-80fd-564881fa377b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\virtual的验证">
+      <UniqueIdentifier>{f3891f19-6f4a-4a56-9201-a9e0daaeac3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\09从左往右尝试模型">
+      <UniqueIdentifier>{2518a128-8d87-45b7-94ea-d0abccd3ec0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\10差分数组">
+      <UniqueIdentifier>{6c0eef13-0d8c-46c3-bcd6-12d6fd1c3fcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\STL源码剖析">
+      <UniqueIdentifier>{ce0b460c-047d-4ff5-9a30-e3d19e599c9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\11买卖股票问题">
+      <UniqueIdentifier>{86bc1e96-5c5b-479d-b5ef-9f39ad633e8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\12滑动窗口问题">
+      <UniqueIdentifier>{3647831a-12e6-4a21-8170-66faa089915b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\13剑指offer">
+      <UniqueIdentifier>{12807282-03a1-4003-a037-d3c2d02db6bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\力扣题目">
+      <UniqueIdentifier>{10ab6081-49c1-41da-8acf-99e9edac47fb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="015返回最长重复子数组.cpp">
+      <Filter>源文件\02样本对应模型</Filter>
+    </ClCompile>
+    <ClCompile Include="016字符串的删除操作.cpp">
+      <Filter>源文件\02样本对应模型</Filter>
+    </ClCompile>
+    <ClCompile Include="05卡牌问题返回最大值.cpp">
+      <Filter>源文件\01范围尝试模型</Filter>
+    </ClCompile>
+    <ClCompile Include="013最长回文子序列.cpp">
+      <Filter>源文件\01范围尝试模型</Filter>
+    </ClCompile>
+    <ClCompile Include="04背包问题的递归写法.cpp">
+      <Filter>源文件\03背包问题</Filter>
+    </ClCompile>
+    <ClCompile Include="06背包装满有几种方法.cpp">
+      <Filter>源文件\03背包问题</Filter>
+    </ClCompile>
+    <ClCompile Include="08背包问题的变形--1和0问题.cpp">
+      <Filter>源文件\03背包问题</Filter>
+    </ClCompile>
+    <ClCompile Include="10完全背包问题.cpp">
+      <Filter>源文件\03背包问题</Filter>
+    </ClCompile>
+    <ClCompile Include="01位运算.cpp">
+      <Filter>源文件\05基础代码尝试</Filter>
+    </ClCompile>
+    <ClCompile Include="011跳马问题.cpp">
+      <Filter>源文件\04跳马问题</Filter>
+    </ClCompile>
+    <ClCompile Include="12跳马问题动态规划.cpp">
+      <Filter>源文件\04跳马问题</Filter>
+    </ClCompile>
+    <ClCompile Include="02机器人运动策略问题暴力法.cpp">
+      <Filter>源文件\05基础代码尝试</Filter>
+    </ClCompile>
+    <ClCompile Include="03机器人运动策略问题动态规划方法.cpp">
+      <Filter>源文件\05基础代码尝试</Filter>
+    </ClCompile>
+    <ClCompile Include="07数字转化为字符串的结果数.cpp">
+      <Filter>源文件\05基础代码尝试</Filter>
+    </ClCompile>
+    <ClCompile Include="09贴纸游戏.cpp">
+      <Filter>源文件\05基础代码尝试</Filter>
+    </ClCompile>
+    <ClCompile Include="017最长公共子序列问题.cpp">
+      <Filter>源文件\02样本对应模型</Filter>
+    </ClCompile>
+    <ClCompile Include="018最长公共子串%28子数组%29.cpp">
+      <Filter>源文件\02样本对应模型</Filter>
+    </ClCompile>
+    <ClCompile Include="019给定正数裂开的方法数.cpp">
+      <Filter>源文件\05基础代码尝试</Filter>
+    </ClCompile>
+    <ClCompile Include="20打家劫舍_数组上.cpp">
+      <Filter>源文件\06打家劫舍问题</Filter>
+    </ClCompile>
+    <ClCompile Include="ceshi.cpp">
+      <Filter>源文件\05基础代码尝试</Filter>
+    </ClCompile>
+    <ClCompile Include="01数组无重复元素的单调栈问题.cpp">
+      <Filter>源文件\07单调栈问题</Filter>
+    </ClCompile>
+    <ClCompile Include="02数组中有重复元素问题.cpp">
+      <Filter>源文件\07单调栈问题</Filter>
+    </ClCompile>
+    <ClCompile Include="03最大递增的坡度.cpp">
+      <Filter>源文件\07单调栈问题</Filter>
+    </ClCompile>
+    <ClCompile Include="滑动窗口最大值.cpp">
+      <Filter>源文件\08单调队列问题</Filter>
+    </ClCompile>
+    <ClCompile Include="09三元组最大值.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="05改良版.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="01继承的验证.cpp">
+      <Filter>源文件\virtual的验证</Filter>
+    </ClCompile>
+    <ClCompile Include="04分类求和并作差.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="14最小处理时间.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="01编码问题.cpp">
+      <Filter>源文件\09从左往右尝试模型</Filter>
+    </ClCompile>
+    <ClCompile Include="07滑动窗口.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="01一维差分.cpp">
+      <Filter>源文件\10差分数组</Filter>
+    </ClCompile>
+    <ClCompile Include="02等差数列差分.cpp">
+      <Filter>源文件\10差分数组</Filter>
+    </ClCompile>
+    <ClCompile Include="15最长奇偶子数组.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="11跳跃游戏2.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="打家劫舍_环形数组.cpp">
+      <Filter>源文件\06打家劫舍问题</Filter>
+    </ClCompile>
+    <ClCompile Include="673最长递增子序列个数.cpp">
+      <Filter>源文件\02样本对应模型</Filter>
+    </ClCompile>
+    <ClCompile Include="01累加函数accumulate.cpp">
+      <Filter>源文件\STL源码剖析</Filter>
+    </ClCompile>
+    <ClCompile Include="02遍历函数for_each.cpp">
+      <Filter>源文件\STL源码剖析</Filter>
+    </ClCompile>
+    <ClCompile Include="583字符串的删除操作.cpp">
+      <Filter>源文件\02样本对应模型</Filter>
+    </ClCompile>
+    <ClCompile Include="72编辑距离.cpp">
+      <Filter>源文件\02样本对应模型</Filter>
+    </ClCompile>
+    <ClCompile Include="115不同子序列.cpp">
+      <Filter>源文件\02样本对应模型</Filter>
+    </ClCompile>
+    <ClCompile Include="647回文子串个数.cpp">
+      <Filter>源文件\01范围尝试模型</Filter>
+    </ClCompile>
+    <ClCompile Include="121买卖股票最佳时机1.cpp">
+      <Filter>源文件\11买卖股票问题</Filter>
+    </ClCompile>
+    <ClCompile Include="买卖股票问题2.cpp">
+      <Filter>源文件\11买卖股票问题</Filter>
+    </ClCompile>
+    <ClCompile Include="03lower_bounded与upper_bounded.cpp">
+      <Filter>源文件\STL源码剖析</Filter>
+    </ClCompile>
+    <ClCompile Include="04容器大小的验证.cpp">
+      <Filter>源文件\STL源码剖析</Filter>
+    </ClCompile>
+    <ClCompile Include="买卖股票4.cpp">
+      <Filter>源文件\11买卖股票问题</Filter>
+    </ClCompile>
+    <ClCompile Include="12固定窗口大小问题.cpp">
+      <Filter>源文件\12滑动窗口问题</Filter>
+    </ClCompile>
+    <ClCompile Include="01最小覆盖子串.cpp">
+      <Filter>源文件\12滑动窗口问题</Filter>
+    </ClCompile>
+    <ClCompile Include="02固定大小的子串.cpp">
+      <Filter>源文件\12滑动窗口问题</Filter>
+    </ClCompile>
+    <ClCompile Include="03找到字符串中所有的字母异位词.cpp">
+      <Filter>源文件\12滑动窗口问题</Filter>
+    </ClCompile>
+    <ClCompile Include="零钱兑换2.cpp">
+      <Filter>源文件\03背包问题</Filter>
+    </ClCompile>
+    <ClCompile Include="零钱兑换1.cpp">
+      <Filter>源文件\03背包问题</Filter>
+    </ClCompile>
+    <ClCompile Include="13字符串验证.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="01Markov平稳分布.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="06各个数据类型大小.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="08男厕所问题.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="12旋转图像.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="13最大公约数的求法.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="02对角线最长的矩形面积.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="05swap函数的使用.cpp">
+      <Filter>源文件\STL源码剖析</Filter>
+    </ClCompile>
+    <ClCompile Include="03反转字符串中的单词.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="17快速幂的写法.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="18三数之和.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="19四数之和.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="16const功能的验证.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="20set的使用.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="21字符串按键.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="22字符串变换次数.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="01数组中重复的元素1.cpp">
+      <Filter>源文件\13剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="02数组中重复的元素2.cpp">
+      <Filter>源文件\13剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="03二维数组中的查找.cpp">
+      <Filter>源文件\13剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="04剪绳子.cpp">
+      <Filter>源文件\13剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="05二进制中1的个数.cpp">
+      <Filter>源文件\13剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="06替换空格.cpp">
+      <Filter>源文件\13剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="07二分查找的三种写法.cpp">
+      <Filter>源文件\13剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="08旋转数组的最小数字.cpp">
+      <Filter>源文件\13剑指offer</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣338.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="读写锁的验证.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="段错误验证.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="内存申请.c">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="回文数字的判断.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="荷兰国旗问题.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="hot100_75.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="力扣2129.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+    <ClCompile Include="和为k的子数组个数.cpp">
+      <Filter>源文件\力扣题目</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
